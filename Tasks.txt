@@ -1,0 +1,9 @@
+1- Post upload page = done ✅
+2- Popular section = done ✅
+3- Most active users = done ✅
+4- Home page = done ✅
+4- Post view = done ✅
+5- User profile  = done ✅
+5- Profile edit = done ✅
+6- Account needs to getverificated   =done ✅
+7- Send Verification code =done ✅
