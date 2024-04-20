@@ -105,6 +105,10 @@ span strong {
     cursor: pointer;
 }
 
+.text-red {
+    color: red;
+}
+
 .url {
     color: rgb(139, 59, 196);
     transition: all ease 200ms;
@@ -807,6 +811,13 @@ button {
     font-family: "Poppins-Regular" !important;
 }
 
+.overflow-y-visible {
+    overflow-y: auto;
+}
+
+.border {
+    border: 1px solid rgba(128, 128, 128, 0.138);
+}
 
 .border-b {
     padding-bottom: 6px;
