@@ -246,6 +246,11 @@ main {
   margin: 12px auto;
 }
 
+.feed-card:first-child {
+    margin-top: 0;
+}
+
+
 .tweet-time {
   font-size: 10px;
   color: gray;
@@ -364,8 +369,13 @@ main {
 
 /* Bookmark */
 #bookmarks-container {
+<<<<<<< HEAD
   width: 70%;
   display: grid;
+=======
+    width: 70%;
+   
+>>>>>>> cbb27db20a6c0cfcdb30e58e7e84e6a687a2a0d2
 }
 
 .reels {
